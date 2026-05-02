@@ -11,8 +11,8 @@ Note the pulley does not include a hub nor flanges.
       <img src="Images/2GTWithBelt.png" alt="WithBelt" height="300" style="margin: 0 10px;"/>
       </p>
 
-      ## Changelog
-      ### V2
-      - Added the ability to generate 3GT (3mm pitch) pulleys
-      - Improved sketch, reducing computational load and complexity
-      - Parameterized everything
+## Changelog
+### V2
+- Added the ability to generate 3GT (3mm pitch) pulleys
+- Improved sketch, reducing computational load and complexity
+- Parameterized everything
